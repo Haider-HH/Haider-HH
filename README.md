@@ -22,7 +22,4 @@ Here are some of my favorite projects:
 3. Smart Hand Using CV - Using "Computer Vision" and "Arduino", I worked on building a smart arm using 3D printed parts integrated with Arduino for controlling the movement of the hand, and Computer vision to capture the user hand
 
 
-## GitHub Stats
-!Your GitHub Stats
-
 Thanks for visiting my profile! Have a great day! ☺️

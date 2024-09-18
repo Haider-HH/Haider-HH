@@ -1,5 +1,4 @@
-<h1 style="border-bottom: none;">Hi there 👋</h1>
-
+# Hi there👋
 
 ## About me
 - 🔭 I'm currently working on React Native applications

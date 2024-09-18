@@ -1,4 +1,4 @@
-# Hi there 👋
+<h1 style="border-bottom: none;">Hi there 👋</h1>
 
 
 ## About me
